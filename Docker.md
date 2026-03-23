@@ -3,6 +3,9 @@
 ## DockerFile
 - `DockerFile` is file containing statements to build a Docker image. (same name as the tool)
 
+### Dockerfile Commands
+- Read here: [Docker File CLI Commands](lessons/Docker%20File%20CLI.md)
+
 ### Components in DockerFile
 - [FROM](#1-from-base-image) : Base image (e.g., `php:8.2-fpm`)
 - [RUN](#4-run) : Commands to install software (e.g., `apt-get install -y ...
